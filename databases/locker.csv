@@ -1,0 +1,199 @@
+locker_id,locker_name,locker_city,locker_state,locker_pincode,prime_capacity,standard_capacity
+1,A,Hyderabad,AP,501301,45,45
+2,B,Hyderabad,AP,500095,60,60
+3,C,Bengaluru,Karnataka,560001,50,50
+4,E,Dwarka,Delhi,110075,100,100
+5,F,Faridabad,Haryana,121001,90,90
+6,G,Indore,MP,452007,70,70
+7,H,"Tilak Path Indore",MP,452007,45,45
+8,I,"Sector 12 Dwarka",Delhi,110075,40,40
+9,J,Bengaluru,Karnataka,560002,80,80
+10,K,Mangalore,Karnataka,560005,85,85
+11,L,Lukhnow,UP,226001,90,90
+12,M,"Karol Bagh","New Delhi",110005,56,56
+13,N,"Karol Bagh","New Delhi",110006,60,60
+14,O,Shahdara,Delhi,110093,66,66
+15,P,Shahdara,Delhi,110094,70,70
+16,Q,Bhopal,MP,462001,70,70
+17,R,"Peer Gate Area Bhopal",MP,462023,56,56
+18,S,Agra,UP,282001,77,77
+19,T,Pune,Maharashtra,411011,50,50
+20,U,Coimbatore,"Tamil Nadu",641009,90,90
+21,V,Coimbatore,"Tamil Nadu",641002,95,95
+22,W,Coimbatore,"Tamil Nadu",641012,60,60
+23,X,Salem,"Tamil Nadu",636009,72,72
+24,Y,Salem,"Tamil Nadu",637801,50,50
+25,Z,"Cannaught Place",Delhi,110001,55,55
+26,AB,"Maheshpur Varanasi",UP,221002,50,50
+27,AC,Pune,Maharashtra,411037,60,60
+28,AD,Howrah,"West Bengal",711409,65,65
+29,AE,Howrah,"West Bengal",711304,70,70
+30,AF,Gandhinagar,Gujarat,382006,75,75
+31,AG,Nashik,Maharashtra,422001,40,40
+32,AH,Nashik,Maharashtra,422009,55,55
+33,AI,"Kurla Mumbai",Maharashtra,400070,90,90
+34,AJ,"Kurla Mumbai",Maharashtra,400001,87,87
+35,AK,"Kurla West Mumbai",Maharashtra,400070,77,77
+36,AL,Kollam,Kerala,691021,80,80
+37,AM,"College Square Kolkata","West Bengal",700012,85,85
+38,AN,"College Square Kolkata","West Bengal",700009,50,50
+39,AO,"College Square Kolkata","West Bengal",700008,65,65
+40,AP,Kozhikode,Kerala,673004,56,56
+41,AQ,Chandigarh,Haryana,160022,50,50
+42,AR,Chnadigarh,Haryana,160045,55,55
+43,AS,Kollam,Kerala,691019,85,85
+44,AT,Kanpur,UP,208001,90,90
+45,AU,Gurgaon,Haryana,122001,100,100
+46,AV,Gurgaon,Haryana,160045,78,78
+47,AW,Kanpur,UP,208014,105,105
+48,AX,Kanpur,UP,208006,110,110
+49,AY,Vadodara,Gujarat,390002,66,66
+50,AZ,Surat,Gujarat,395017,78,78
+51,BA,Surat,Gujarat,395007,92,92
+52,BB,Surat,Gujarat,395101,87,87
+53,BC,Amritsar,Punjab,143006,65,65
+54,BD,Amritsar,Punjab,143001,70,70
+55,BE,Allahbad,UP,211213,65,65
+56,BF,Agra,UP,282003,60,60
+57,BG,"Madurai Main Madurai","Tamil Nadu",625001,75,75
+58,BH,"Kydgang Allahabad",UP,211003,50,50
+59,BI,"Old Delhi",Delhi,110096,45,45
+60,BJ,"Simmakkal Madurai","Tamil Nadu",625001,88,88
+61,BK,"Greater Noida",UP,201308,80,80
+62,BL,"Greater Noida",UP,201310,44,44
+63,BM,"Kashmiri Gate",Delhi,110096,55,55
+64,BN,Madras,"Tamil Nadu",600003,95,95
+65,BO,"Hazratganj Lucknow",UP,226001,53,53
+66,BP,Vijayawada,AP,305050,75,75
+67,BQ,Varanasi,UP,221002,60,60
+68,BR,Vijayawada,AP,520001,50,50
+69,BS,Vijayawada,AP,520010,55,55
+70,BT,Kochi,Kerala,682005,66,66
+71,BU,"Valummel Kochi",Kerala,682005,70,70
+72,BV,"Shalimar Bagh",Delhi,110088,100,100
+73,BW,Faridabad,Haryana,121002,60,60
+74,BX,Jalandhar,Punjab,144002,70,70
+75,BY,Jalandhar,Punjab,144006,80,80
+76,BZ,Rohini,Delhi,110039,40,40
+77,CA,Vadodara,Gujarat,390001,104,104
+78,CB,Vadodara,Maharashtra,431001,44,44
+79,CC,Bathinda,Punjab,151001,84,84
+80,CD,"Fauji Chowk Batinda",Punjab,151001,89,89
+81,CE,Rohtak,Haryana,124001,65,65
+82,CF,Tirupati,AP,517501,77,77
+83,CG,"Kapil Vihar Pitampura",Delhi,110034,72,72
+84,CH,"Dakshini Pitampura",Delhi,110034,93,93
+85,CI,Cantonment,"New Delhi",110010,61,61
+86,CJ,Dehradun,Uttarakhand,248001,100,100
+87,CK,Dehradun,Uttarakhand,249201,104,104
+88,CL,Patiala,Punjab,147001,112,112
+89,CM,Rishikesh,Uttarakhand,249203,55,55
+90,CN,Haridwar,Uttarakhand,249401,56,56
+91,CO,Haridwar,Uttarakhand,246400,57,57
+92,CP,Mussoorie,Uttarakhand,248179,58,58
+94,CQ,Pathankot,Punjab,145001,81,81
+95,CR,Thane,Maharashtra,400606,82,82
+96,CS,Nellore,"Andhra Pradesh",524002,84,84
+98,CT,Nellore,"Andhra Pradesh",524003,87,87
+99,CU,"Ramji Nagar Nellore","Andhra Pradesh",524003,66,66
+100,CV,Laranpur,Bihar,801303,80,80
+101,CW,Shimla,"Himachal Pradesh ",171001,90,90
+102,CX,Jabalpur,"Madhya Pradesh ",482001,77,77
+103,CY,Nainital,Uttarakhand,263002,54,54
+104,CZ,Lingthem,Sikkim,737116,46,46
+105,DA,Meerut,"Uttar Pradesh",250003,90,90
+106,DB,"Jattiwara Meerut","Uttar Pradesh",250001,55,55
+107,DC,"Dakshin JagadishpurSouth 24 Parganas","West Bengal",700001,70,70
+108,DD,"Agartala G.P.O",Tripura,799001,60,60
+109,DE,Ahmedabad,UP,380001,90,90
+110,DF,Abhaynagar,Tripura,799005,70,70
+112,DG,Ahmednagar,Maharashtra,414001,60,60
+113,DH,Adilabad,"Andhra Pradesh",504001,88,88
+114,DI,Adoni,"Andhra Pradesh",51830,76,76
+115,DJ,Adur,Kerala,691523,46,46
+116,DK,"Aizawal G.P.O",Mizoram,796001,89,89
+117,DL,Ajmer,Rajasthan,305001,90,90
+118,DM,Akbarpur,"Uttar Pradesh",224122,9,9
+119,DN,Akola,Maharashtra,444001,85,85
+120,DO,Akulto,Nagaland,798619,76,76
+121,DP,Alathur,Kerala,678541,98,98
+122,DQ,Aldona,Goa,403508,60,60
+123,DR,Alibag,Mahrashtra,402201,78,78
+124,DS,Aligarh,"Uttar Pradesh",202001,89,89
+125,DT,Alipur,"West Bengal",700027,66,66
+126,DU,Allagada,"Andhra Pradesh",518543,70,70
+127,DV,"Allahabad Kacheri","Uttar Pradesh",211002,80,80
+128,DW,"Bada Bazar",Meghalaya,793002,80,80
+129,DX,"Bada pani",Meghalaya,793103,90,90
+130,DY,Bagalkot,Karnataka,587101,95,95
+131,DZ,Bahadurgarh,Haryana,125417,75,75
+132,EA,Bahraich,"Uttar Pradesh",271801,65,65
+133,EB,Bahror,Rajasthan,301701,75,75
+134,EC,"Baidyanadh Deoghar",Bihar,814112,85,85
+135,ED,Bailhongal,Karnataka,591102,95,95
+136,EE,Bakultala,"Andaman and  Nicobar Islands",744208,96,96
+137,EF,Balaghat,"Madhya Pradesh",481001,86,86
+138,EH,Banka,Bihar,813102,55,55
+139,EI,Bansi,"Uttar Pradesh",272153,44,44
+140,EJ,Banswara,Rajasthan,327001,66,66
+141,EK,"Campwell Bay","Andaman & Nicobar Islands",744302,87,87
+142,EL,"Car Nicobar","Andaman & Nicobar Islands",744301,100,100
+143,EM,Chaibasa,Bihar,833201,57,57
+144,EN,Chaichima,Nagaland,797105,88,88
+145,EO,Chakpirang,Manipur,795102,80,80
+146,EP,Chalakudi,Kerala,680307,90,90
+147,EQ,Chalisgaon,Maharashtra,424101,100,100
+149,ER,Champang,Nagaland,798603,58,58
+150,ES,Champhai,Mizoram,796321,60,60
+151,ET,Chandel,Manipur,795127,60,60
+152,EU,Chandigarh,Punjab,160017,50,50
+153,EV,Chandmari,Mizoram,796007,40,40
+154,EW,Chandnichowk,Orissa,753002,68,68
+155,EX,Chandragiri,"Andhra Pradesh",517101,90,90
+156,EY,Chandrapur,Maharashtra,442401,95,95
+157,EZ,Chandrapur,Tripura,799251,97,97
+158,FA,Changlang,"Arunachal Pradesh",792120,98,98
+159,FB,Channapatna,Karnataka,571501,99,99
+160,FC,Dabhoi,Calcutta,391110,65,65
+161,FD,Dabki,Meghalaya,793109,66,66
+162,FE,Dadar,Maharashtra,400014,70,70
+163,FG,Dahod,Calcutta,389151,76,76
+164,FH,Chamba,"Himachal Pradesh",176310,120,120
+165,FI,Daltonganj,Bihar,822101,75,75
+166,FJ,Damoh,"Madhya Pradesh",470661,72,72
+167,FK,Daporizo,"Arunachal Pradesh",791122,56,56
+168,FL,Darbhanga,Bihar,846004,50,50
+169,FM,Dargamitta,"Andhra Pradesh",524003,60,60
+170,FN,Darjeeling,"West Bengal",734101,70,70
+171,FO,Darlawn,Mizoram,796111,80,80
+172,FP,Dasuya,Punjab,144205,90,90
+173,FQ,Datia,"Madhya Pradesh",475661,95,95
+174,FR,Dausa,Rajasthan,303301,98,98
+175,FS,Davangere,Karnataka,577001,70,70
+176,FT,Deeg,Rajasthan,321203,65,65
+177,FU,"Dehra Gopipur","Himachal Pradesh",177101,100,100
+178,FV,"Dehradun Cantt","Uttar Pradesh",248003,111,111
+179,FW,Demgiri,Mizoram,796751,102,102
+180,FX,Deomali,"Arunachal Pradesh",786629,103,103
+181,FY,Deoria,"Uttar Pradesh",274001,104,104
+182,FZ,Devakottai,"Tamil Nadu",630302,105,105
+183,GA,Dewas,"Madhya Pradesh",455001,40,40
+184,GB,Dhamloan,Manipur,795143,45,45
+185,GC,Dhampur,Goa,403504,50,50
+186,GD,Dhampur,"Uttar Pradesh",246761,55,55
+187,GE,Dhar,"Madhya Pradesh",454001,60,60
+188,GF,Dhanbad,Bihar,826001,55,55
+189,GG,"Dharamnagar G.P.O",Tripura,799250,67,67
+190,GH,Dharapuram,"Tamil Nadu",638656,8,8
+191,GI,Dharmapuri,"Tamil Nadu",636701,60,60
+192,GJ,"Dharmavaram ","Andhra Pradesh",516671,65,65
+193,GK,Dharwad,Karnataka,580001,70,70
+194,GL,"Dhenkanal ",Orissa,759001,72,72
+195,GM,Dholka,Calcutta,387810,74,74
+196,GN,Dholpur,Rajasthan,328001,80,80
+197,GO,Dhramsala,"Himachal Pradesh",176215,89,89
+198,GP,Dhubri,Assam,783301,88,88
+199,GQ,Dhule,Maharashtra,424001,84,84
+200,GR,"Diamond Harbour","West Bengal",743331,83,83
+201,GS,Dibrugarh,Assam,786001,75,75
+203,ut,ut,ut,110077,3,3
