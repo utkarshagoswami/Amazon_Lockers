@@ -50,7 +50,10 @@
     }
     echo "<h3>Order placed successfully!!</h3><br>";
 ?>
-    <br/><br/><a href="./home.php" class="btn btn-warning">Order More</a>
     </div>
+    <div class="container">
+        <a href="./home.php" class="btn btn-warning">Order More</a>
+    </div>
+    
 </body>
 </html>

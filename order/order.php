@@ -49,7 +49,7 @@
             $sql = "SELECT * FROM locker where locker_pincode=".$_POST['pincode'];
         $res=mysqli_query($conn, $sql);
         
-        $del_sql="DELETE FROM orders WHERE delivery_date<='".date('Y-m-d', strtotime($now. ' + 1 days'))."';";
+        $del_sql="DELETE FROM orders WHERE delivery_date<='".date('Y-m-d', strtotime($now. ' - 1 days'))."';";
         mysqli_query($conn,$del_sql);
 
         while ($r = mysqli_fetch_assoc($res)){
@@ -117,6 +117,14 @@
         echo date('y-m-d',$your_date)."  ";
         echo date('Y-m-d', strtotime($now. ' + 5 days')); 
         */
+?>
+<div class="container">
+    <form action="search.php" method="POST">
+        <input type="text" name="qty" value='<?php echo $_POST['qty']; ?>' hidden>
+        <input type="submit" name="search" value="Search More" class="btn btn-warning">
+    </form>
+</div>
+<?php
     }
 ?>
 </body>

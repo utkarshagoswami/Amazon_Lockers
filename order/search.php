@@ -87,7 +87,7 @@
                     <tr>
                         <td><input type="submit" name="search" value="Search" class="btn btn-warning"></td>
                     </tr>
-                    <input type="text" name="qty" value="<?php echo $_POST['qty']; ?>" hidden>
+                    <input type="text" name="qty" value='<?php echo $_POST['qty']; ?>' hidden>
                 </form>
             </table>
         </td>
